@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DevNrN-T
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: Dev
 - ⚡ Fun fact: I like games
 
